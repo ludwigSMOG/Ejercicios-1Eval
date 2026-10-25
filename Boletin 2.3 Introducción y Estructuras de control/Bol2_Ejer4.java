@@ -13,7 +13,7 @@ public class Bol2_Ejer4 {
         System.out.printf("Numero decimal: %d%n", num1);
         System.out.printf("Numero Octal: %05o%n", num1);
         System.out.printf("Numero Hexadecimal: %X%n", num1);
-        System.out.println();//%x letras minus, %X letras Mayusc
+        System.out.println();// %x letras minus, %X letras Mayusc
         System.out.printf("Numero Real: %7.3f%n", num2);
 
         System.out.println();
@@ -31,7 +31,6 @@ public class Bol2_Ejer4 {
 
                 break;
             case 4:
-
                 System.out.println("Jueves");
                 break;
             case 5:
